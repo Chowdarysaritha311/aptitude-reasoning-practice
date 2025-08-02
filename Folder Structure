@@ -1,0 +1,17 @@
+aptitude-practice-app/
+├── public/
+│   └── index.html
+├── src/
+│   ├── components/
+│   │   ├── Navbar.js
+│   │   ├── QuestionCard.js
+│   │   └── Result.js
+│   ├── data/
+│   │   └── questions.js
+│   ├── App.js
+│   ├── index.css
+│   └── index.js
+├── package.json
+├── README.md
+└── LICENSE
+```
